@@ -1,2 +1,2 @@
 # AlienVault-OTX-URL-Extractor
-fetch url from AlienVault OTX
+chrome extention to fetch url from AlienVault OTX
